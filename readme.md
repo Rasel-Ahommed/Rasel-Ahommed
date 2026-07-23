@@ -37,7 +37,7 @@ currently: Building clean, scalable web applications
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,docker,git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,html,css,js,php,mysql,docker,git,github,figma&theme=dark" />
 </div>
 
 <br/>
