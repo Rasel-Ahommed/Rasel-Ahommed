@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Rasel%20Ahommed%20Rana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Rasel%20Ahommed%20Rana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20Docker%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://rasel.ezyro.com">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Jr.+Software+Developer;Full+Stack+%7C+Laravel+Developer;Frontend+%2B+UI%2FUX+Enthusiast;Always+shipping+something+new;&font=Fira+Code&center=true&width=520&height=45&color=00C9A7&vCenter=true&size=22" />
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Backend+Developer+%7C+Laravel+Developer;Frontend+%2B+UI%2FUX+Enthusiast;Always+shipping+something+new;&font=Fira+Code&center=true&width=520&height=45&color=00C9A7&vCenter=true&size=22" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@ currently: Building clean, scalable web applications
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,docker,git,github,figma,vscode&theme=dark" />
 </div>
 
 <br/>
