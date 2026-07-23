@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Rasel Ahommed Rana
+name: Rasel Ahammed Rana
 role: Software Developer @ TheSoftKing LTD.
 location: Dhaka, Bangladesh
 focus: Laravel · PHP · Docker . JavaScript
