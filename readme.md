@@ -7,13 +7,12 @@
 </a>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rasel-Ahommed&style=flat-square&color=6366f1" alt="Profile Views"/>
-
-<br/>
-
 <a href="https://linkedin.com/in/rasel-ahommed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/mdraselahommed.rana"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://rasel.ezyro.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Rasel-Ahommed&style=flat-square&color=6366f1" alt="Profile Views"/>
 
 </div>
 
