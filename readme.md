@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Rasel%20Ahommed%20Rana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://rasel.ezyro.com">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Jr.+Software+Developer;Full+Stack+%7C+Laravel+Developer;Frontend+%2B+UI%2FUX+Enthusiast;Always+shipping+something+new;&font=Fira+Code&center=true&width=520&height=45&color=00C9A7&vCenter=true&size=22" />
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Laravel+Docker;+Developer;Frontend+%2B+UI%2FUX+Enthusiast;Always+shipping+something+new;&font=Fira+Code&center=true&width=520&height=45&color=00C9A7&vCenter=true&size=22" />
 </a>
 
 <br/>
@@ -20,9 +20,9 @@
 
 ```yaml
 name: Rasel Ahommed Rana
-role: Jr. Software Developer @ Unicon Software and Solution Ltd.
+role: Software Developer @ . TheSoftKing LTD.
 location: Dhaka, Bangladesh
-focus: Full Stack Development — Laravel · PHP · JavaScript
+focus: Laravel · PHP · JavaScript
 also_into: Frontend Development · UI/UX Design
 currently: Building clean, scalable web applications
 ```
@@ -30,9 +30,7 @@ currently: Building clean, scalable web applications
 - 🔭 Currently building full-stack apps with **Laravel** on the backend
 - 🎨 Equally at home on the frontend — **HTML, CSS, JavaScript, UI/UX**
 - 🌱 Constantly leveling up my full-stack toolkit
-- 💬 Ask me about PHP, Laravel, or JavaScript
-- 📫 Reach me via [rasel.ezyro.com](https://rasel.ezyro.com)
-
+- 💬 Ask me about PHP, Laravel, Docker or JavaScript
 <br/>
 
 ## 🛠️ Tech Stack
