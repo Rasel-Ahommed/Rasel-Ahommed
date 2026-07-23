@@ -5,6 +5,9 @@
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Backend+Developer+%7C+Laravel+Developer;Frontend+%2B+UI%2FUX+Enthusiast;Always+shipping+something+new;&font=Fira+Code&center=true&width=520&height=45&color=00C9A7&vCenter=true&size=22" />
 </a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rasel-Ahommed&style=flat-square&color=6366f1" alt="Profile Views"/>
 
 <br/>
 
