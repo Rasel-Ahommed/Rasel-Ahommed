@@ -43,35 +43,6 @@ currently: Building clean, scalable web applications
 
 <br/>
 
-## 🚀 Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/Rasel-Ahommed/Employee-report-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasel-Ahommed&repo=Employee-report-management-system&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Rasel-Ahommed/Customer-information-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasel-Ahommed&repo=Customer-information-management-system&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/Rasel-Ahommed/Online-quiz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasel-Ahommed&repo=Online-quiz&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Rasel-Ahommed/Website-admin-with-laravel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasel-Ahommed&repo=Website-admin-with-laravel&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/Rasel-Ahommed/PickShop-E-commerce-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasel-Ahommed&repo=PickShop-E-commerce-&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Rasel-Ahommed/UEIMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasel-Ahommed&repo=UEIMS&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
